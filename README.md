@@ -9,10 +9,10 @@
 <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
 
 <p align="center">
-    <!-- https://github.com/badges/shields -->
     <a href="https://github.com/FengzihangCode"><img src="https://img.shields.io/badge/GitHub-FengzihangCode-blue?logo=github" /></a>
     <a href="https://space.bilibili.com/77079756"><img src="https://img.shields.io/badge/哔哩哔哩-DannyFenggggg-pink?logo=bilibili" /></a>
     <img src="https://komarev.com/ghpvc/?username=FengzihangCode" />
+    ![GitHub followers](https://img.shields.io/github/followers/fengzihangcode)
 </p>
 
 - 💬 Ask me for helping translate your project to Chinese Simplified, I'd like to accept it
