@@ -7,7 +7,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FengzihangCode)](https://git.io/streak-stats)
 [![FengzihangCode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://skillicons.dev/icons?i=git,c,cpp,swift,py,java,js,md,powershell,visualstudio,vscode" />
-
+![](https://komarev.com/ghpvc/?username=fengzihangcode)
 
 
 <!--
