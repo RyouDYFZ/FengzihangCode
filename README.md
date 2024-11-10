@@ -12,8 +12,7 @@
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/FengzihangCode"><img src="https://img.shields.io/badge/GitHub-FengzihangCode-blue?logo=github" /></a>
     <a href="https://space.bilibili.com/77079756"><img src="https://img.shields.io/badge/哔哩哔哩-DannyFenggggg-pink?logo=bilibili" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Xiaokang2022" />
-    ![](https://komarev.com/ghpvc/?username=fengzihangcode)
+    <img src="https://komarev.com/ghpvc/?username=FengzihangCode" />
 </p>
 <!--
 **FengzihangCode/FengzihangCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
