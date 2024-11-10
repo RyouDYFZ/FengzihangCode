@@ -6,7 +6,7 @@
 ![FengzihangCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengzihangcode\&show_icons=true\&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=FengzihangCode)](https://git.io/streak-stats)
 [![FengzihangCode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,js,vue,md,powershell,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
 
 ![](https://komarev.com/ghpvc/?username=fengzihangcode)
 
