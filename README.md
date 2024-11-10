@@ -12,8 +12,8 @@
     <a href="https://github.com/FengzihangCode"><img src="https://img.shields.io/badge/GitHub-FengzihangCode-blue?logo=github" /></a>
     <a href="https://space.bilibili.com/77079756"><img src="https://img.shields.io/badge/哔哩哔哩-DannyFenggggg-pink?logo=bilibili" /></a>
     <img src="https://komarev.com/ghpvc/?username=FengzihangCode" />
-    ![GitHub followers](https://img.shields.io/github/followers/fengzihangcode)
 </p>
+![GitHub followers](https://img.shields.io/github/followers/fengzihangcode)
 
 - 💬 Ask me for helping translate your project to Chinese Simplified, I'd like to accept it
 - 📫 How to reach me: FengzihangDanny@iCloud.com
