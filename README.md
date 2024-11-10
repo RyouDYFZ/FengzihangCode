@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=FengzihangCode" />
 </p>
 
-- 💬 Ask me about helping translation
+- 💬 Ask me for helping translate your project to Chinese Simplified, I'd like to accept it
 - 📫 How to reach me: FengzihangDanny@iCloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: He and his projects crashes a lot (Just a joke, not really)
