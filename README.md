@@ -18,7 +18,6 @@
 - 💬 Ask me about helping translation
 - 📫 How to reach me: FengzihangDanny@iCloud.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Crashed
--->
+- ⚡ Fun fact: He and his projects crashes a lot (Just a joke, not really)
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Me?%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Code%20for%20I%20need,%20contribute%20for%20I%20love.&descAlign=60&descAlignY=50)
