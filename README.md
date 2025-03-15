@@ -4,7 +4,7 @@
 
 ## Welcome to my Github Homepage🎉
 [![FengzihangCode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img src="https://skillicons.dev/icons?i=git,c,cpp,cs,ts,swift,py,java,kotlin,js,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,ts,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
 
 <p align="center">
     <a href="https://github.com/FengzihangCode"><img src="https://img.shields.io/badge/GitHub-FengzihangCode-blue?logo=github" /></a>
