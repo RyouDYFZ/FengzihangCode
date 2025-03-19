@@ -13,9 +13,9 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/fengzihangcode">
 </p>
 
-- 💬 Ask me for helping translate your project to Chinese Simplified, I'd like to accept it
+- 💬 Ask me for Swift, Python, JavaScript, C, C++, C# development assistance or Chinese-English translation
 - 📫 How to reach me: FengzihangDanny@iCloud.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: He and his projects crashes a lot (Just a joke, not really)
+- ⚡ Fun fact: 🌈LGBTQ+
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Me?%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Code%20for%20I%20need,%20contribute%20for%20I%20love.&descAlign=60&descAlignY=50)
