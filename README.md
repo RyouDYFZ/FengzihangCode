@@ -8,7 +8,7 @@
 [![FengzihangCode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Stats | 统计信息
-![DannyFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengzihangCode&count_private=true)
+![DannyFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengzihangCode&count_private=true&show_icons=true&theme=dracula)
 
 ### Tech Stacks | 技术栈
 <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,ts,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
