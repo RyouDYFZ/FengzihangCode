@@ -5,7 +5,7 @@
 ## Welcome to my Github Homepage | 欢迎来到我的 GitHub 首页 🎉
 
 ### Contribution History | 贡献历史
-[![FengzihangCode's github activity graph](https://github-readme-stats-fengzihangcodes-projects.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![FengzihangCode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Stats | 统计信息
 ![DannyFeng's GitHub stats](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api?username=FengzihangCode&count_private=true&show_icons=true&theme=dracula)
