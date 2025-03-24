@@ -22,7 +22,7 @@
 - 💬 Ask me for software development assistance or Chinese-English translation
 - 📫 To reach me at FengzihangDanny@iCloud.com
 - 😄 Pronouns: She/Her but actually He/Him
-- ⚡ Fun fact: 🌈LGBTQ+🏳‍🌈
+- ⚡ Fun fact: Another mental trans? 🌈LGBTQ+🏳‍🌈
 
 ### One More Thing | 还有些想说的
 - 最近压力真的好大 心态很不稳定（
