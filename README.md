@@ -9,6 +9,7 @@
 
 ### Stats | 统计信息
 ![DannyFeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengzihangCode&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FengzihangCode&layout=compact)](https://github.com/FengzihangCode)
 
 ### Tech Stacks | 技术栈
 <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,ts,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
