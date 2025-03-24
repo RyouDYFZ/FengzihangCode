@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Amour%20de%20Chine&descAlignY=51&descAlign=62"/>
 </p>
 
-## Welcome to my Github Homepage🎉 | 欢迎来到我的 GitHub 首页🎉
+## Welcome to my Github Homepage | 欢迎来到我的 GitHub 首页 🎉
 
 ### Contribution History | 贡献历史
 [![FengzihangCode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FengzihangCode&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
