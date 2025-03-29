@@ -36,6 +36,6 @@
 ### One More Thing | 还有些想说的
 - 最近压力真的好大 心态很不稳定（
 - 总之 感谢你看到这里
-- What's next?
+- 🎇What's Next?
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Me?%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Code%20for%20I%20need,%20contribute%20for%20I%20love.&descAlign=60&descAlignY=50)
