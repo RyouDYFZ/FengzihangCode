@@ -40,6 +40,5 @@
 
 - ~~Progynova 是一种有意思的药物~~（请不要当真啊！！！）
 
-- <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG"></iframe>
-
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Me?%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Code%20for%20I%20need,%20contribute%20for%20I%20love.&descAlign=60&descAlignY=50)
+- 一起听歌？
+🎵 [DannyFengzihang 喜欢的音乐](https://music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG)
