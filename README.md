@@ -38,6 +38,6 @@
 - 总之 感谢你看到这里
 - 🎇 What's Next?
 
-- ~~Progynova 是一种有意思的药物~~
+- ~~Progynova 是一种有意思的药物~~（请不要当真啊！！！）
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Me?%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Code%20for%20I%20need,%20contribute%20for%20I%20love.&descAlign=60&descAlignY=50)
