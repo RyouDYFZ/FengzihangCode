@@ -40,6 +40,6 @@
 
 - ~~Progynova 是一种有意思的药物~~（请不要当真啊！！！）
 
-### Music Together? | 一起听歌？
+### Music Together | 一起听歌
 
 🎵 [DannyFengzihang 喜欢的音乐](https://music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG)
