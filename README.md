@@ -42,4 +42,5 @@
 
 ### Music Together | 一起听歌
 
-🎵 [DannyFengzihang 喜欢的音乐](https://music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG)
+🎵 Apple Music [DannyFengzihang 喜欢的音乐](https://music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG)
+[![Spotify Playlist](https://img.shields.io/badge/🎧_Listen_on_Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1c1PmoM8ldmDY4R4VUJmdS?si=f496759fe1f14e51)
