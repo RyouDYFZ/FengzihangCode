@@ -14,8 +14,6 @@
 <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,swift,py,java,kotlin,js,ts,vue,dotnet,md,powershell,eclipse,androidstudio,idea,visualstudio,vscode,cloudflare,azure,vercel,apple,windows,linux,ubuntu" />
 
 ### Some Participated Projects | 一些参与过的项目
-[![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Darock-Studio&repo=Darock-Bili)](https://github.com/Darock-Studio/Darock-Bili)
-
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=ClassIsland&repo=ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Groupguanfang&repo=arkTS)](https://github.com/Groupguanfang/arkTS)
