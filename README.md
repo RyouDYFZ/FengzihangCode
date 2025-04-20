@@ -45,4 +45,4 @@
 
 [![Listen on Apple Music](https://img.shields.io/badge/🎵_Listen_on_Apple_Music-ff2a00?logo=apple&logoColor=white)](https://music.apple.com/cn/playlist/dannyfengzihang%E5%96%9C%E6%AC%A2%E7%9A%84%E9%9F%B3%E4%B9%90/pl.u-qxylEMJF348P7ZG)
 [![Listen on Spotify](https://img.shields.io/badge/🎧_Listen_on_Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1c1PmoM8ldmDY4R4VUJmdS?si=f496759fe1f14e51)
-[![Listen on NetEase Music](https://img.shields.io/badge/NetEase%20CloudMusic-ea3b18.svg)](https://music.163.com)
+[![Listen on NetEase Music](https://img.shields.io/badge/NetEase%20Music-ea3b18.svg)](https://music.163.com)
