@@ -36,8 +36,9 @@
 - 最近压力真的好大 心态很不稳定（
 - 总之 感谢你看到这里
 - 🎇 What's Next?
-
 - ~~Progynova 是一种有意思的药物~~（请不要当真啊！！！）
+
+> May there'll be a day with no discrimination on LGBT community
 
 ### Music Together | 一起听歌
 
