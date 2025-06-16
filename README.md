@@ -18,7 +18,7 @@
 
 [![Readme Card](https://github-readme-stats-fengzihangcodes-projects.vercel.app/api/pin/?username=Groupguanfang&repo=arkTS)](https://github.com/Groupguanfang/arkTS)
 
-### Informations | 一些基本信息
+### Some Pieces of Information | 一些基本信息
 <p align="center">
     <a href="https://github.com/FengzihangCode"><img src="https://img.shields.io/badge/GitHub-FengzihangCode-blue?logo=github" /></a>
     <a href="https://wakatime.com/@c6e2a898-2862-41ed-95c0-1d69eecf6936"><img src="https://wakatime.com/badge/user/c6e2a898-2862-41ed-95c0-1d69eecf6936.svg" alt="Total time coded since Nov 9 2024" /></a>
