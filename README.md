@@ -29,7 +29,7 @@
 
 - 💬 Ask me for software development assistance or Chinese-English translation
 - 📫 To reach me at FengzihangDanny@iCloud.com
-- 😄 Pronouns: She/Her but actually He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Another MtF? 🌈LGBTQ+🏳‍🌈🏳️‍⚧️
 
 ### One More Thing | 还有些想说的
