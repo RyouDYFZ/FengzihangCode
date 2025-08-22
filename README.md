@@ -23,8 +23,8 @@
     <a href="https://github.com/RyouDYFZ"><img src="https://img.shields.io/badge/GitHub-RyouDYFZ-blue?logo=github" /></a>
     <a href="https://wakatime.com/@c6e2a898-2862-41ed-95c0-1d69eecf6936"><img src="https://wakatime.com/badge/user/c6e2a898-2862-41ed-95c0-1d69eecf6936.svg" alt="Total time coded since Nov 9 2024" /></a>
     <a href="https://space.bilibili.com/77079756"><img src="https://img.shields.io/badge/哔哩哔哩-DannyFenggggg-pink?logo=bilibili" /></a>
-    <img src="https://komarev.com/ghpvc/?username=RyouDYFZ" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/fengzihangcode">
+    <img src="https://komarev.com/ghpvc/?username=FengzihangCode" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ryoudyfz">
 </p>
 
 - 💬 Ask me for software development assistance or Chinese-English translation
